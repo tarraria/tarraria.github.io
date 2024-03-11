@@ -1,3 +1,5 @@
+
+<h1>Heading 1</h1>
 # Markdown Example
 
 This is a markdown file.
