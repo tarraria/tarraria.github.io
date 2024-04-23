@@ -1,7 +1,7 @@
 # Theory Questions!
 
 1. **Define internet backbone in your own words.**
-An internet backbone is a part a computer which interconnects to networks to allow the exchange of information across   various networks.
+An internet backbone is the part of a computer which interconnects networks to allow for the exchange of information. 
 
 2. **What is the difference between clients and servers on the internet?**
 A client makes requests for information from servers, and servers store, provide and fulfill the requests.
