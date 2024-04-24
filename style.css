@@ -1,11 +1,14 @@
-body {
+* {
   background-color: lightpink;
 
-  color: white;
+}
+
+h1 { 
+     color: white;
   text-align: center;
 
   font-family: arial;
   font-size: 20px;
-
 }
 
+H2
