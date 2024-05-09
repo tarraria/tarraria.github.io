@@ -8,7 +8,7 @@ h1 {
   text-align: center;
 
   font-family: arial;
-  font-size: 30px;
+  font-size: 45px;
 }
 
 h2 {
@@ -16,7 +16,7 @@ h2 {
   text-align: left;
 
   font-family: arial;
-  font-size: 20px;
+  font-size: 35px;
 }
 
 p1 {
@@ -24,11 +24,7 @@ p1 {
   text-align: center;
 
   font-family: arial;
-  font-size: 10px;
+  font-size: 20px;
 
-}
-
-table {
-  text-align: right;
 }
 
