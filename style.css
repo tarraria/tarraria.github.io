@@ -5,7 +5,7 @@
 
 h1 { 
   color: black;
-  text-align: center;
+  text-align: left;
 
   font-family: serif;
   font-size: 25px;
@@ -21,11 +21,10 @@ h2 {
 
 p1 {
   color:  black ;
-  text-align: center;
-}
-*
+  text-align: left;
+
   font-family: serif;
   font-size: 13px;
 
 }
-
+*
